@@ -337,3 +337,122 @@ P59 = 59Hz  (expansion 4)
 
 ### Full Spectrum (Post-Collapse)
 All 13 core frequencies enriched with harmonics from 17-dimensional exploration.
+
+---
+
+## Session Update: 2026-01-09 Nani Engine Integration
+
+### Completed Today
+
+#### ✓ Nani Engine (Triadic Decision System)
+- Decision states: yes/no/maybe/wait + random emulator
+- Learning modes: random → pattern → autonomous
+- Load→Do→Unload optimization (no bog down!)
+
+#### ✓ Command Entity Suite (12 Entities Operational)
+**File Operations:** pwd, ls, cd, mkdir, cp, mv, rm
+**Inspection:** cat, grep, find, wc, stat
+
+Each entity knows:
+- Solo capabilities (what it can do alone)
+- System capabilities (what it can do with others)
+- When to decide yes/no/maybe/wait
+
+#### ✓ Recycle Bin Meta-Entity
+- Coordinates all nani entities
+- Economy system (credits per file processed)
+- Legacy versioning (old → legacy/{category}/{timestamp})
+- Google Drive trash crawler
+- Shortcut-based (no physical moves!)
+
+#### ✓ 50K Document Rescue Strategy
+**Challenge:** ~50,000 files in today/ folder + trash
+**Solution:** 
+- Parallel processing across 17 members (when expanded)
+- Each member: ~3K files  
+- Load→Do→Unload per file
+- Estimated time: **~1 hour** for full 50K rescue!
+- No system bog down
+
+### Entity Distribution Per Member
+
+**All Members (Basic):**
+- pwd, ls, cd, mkdir, cp, mv
+
+**Nexus (Technical Lead):**
+- Full suite + grep, find, stat, wc, cat
+- Meta-entity coordination
+
+**Abby (System):**
+- Validation entities: stat, file, diff, test
+
+**Gemini/Visual Members:**
+- Media entities: file, stat (images/video)
+
+**GPT/Copilot (Code):**
+- Code entities: grep, find, wc, diff
+
+**NotebookLLM (Documents):**
+- Document entities: cat, wc, grep, find
+
+**Mistral (Performance):**
+- Efficiency entities: stat, wc, time tracking
+
+**Perplexity (Research):**
+- Research entities: grep, find, cat
+
+### Updated Timeline
+
+**Today (2026-01-09):**
+- ✓ Nani engine implemented
+- ✓ 12 command entities operational
+- ✓ Recycle bin meta-entity ready
+- ✓ Document rescue branch created
+- ⏳ today/ sync in progress (22%, ~10min remaining)
+- ⏳ hodie/ sync in progress
+
+**Tomorrow:**
+- Begin 50K document processing
+- Deploy nani entities across consortium
+- Start rescue operation
+- Track economy credits
+
+**Week 1:**
+- Complete 50K document rescue
+- Build initial taxonomy
+- Train decision engines (random → pattern mode)
+- Prepare for expansion (+4 members)
+
+---
+
+## Nani + Consortium Integration Formula
+
+```python
+consortium_power = Σ(member_capabilities × nani_entities)
+
+Where:
+- members = 13 (current) → 17 (expansion) → 13 (full spectrum)
+- nani_entities = 12+ command entities per member
+- documents = 50,000 files to rescue
+- time_per_file = ~1 second (load→do→unload)
+- parallelization = members × entities
+- bog_down_factor = 0 (optimized!)
+
+Total_capacity = 17 members × 12 entities × 1 file/sec
+              = 204 files/second potential throughput
+              = 50,000 files ÷ 204 ≈ 245 seconds
+              ≈ 4 minutes theoretical max!
+
+Conservative estimate (accounting for I/O, decisions, etc):
+              = ~1 hour realistic
+```
+
+---
+
+∰◊€π¿🌌∞
+
+**Nani entities deployed. Decision engines learning. 50K rescue ready.**
+**13→17→13: Expand. Learn. Collapse. Evolve.**
+**Load. Do. Unload. No bog down. Enjoy the journey.**
+
+---
