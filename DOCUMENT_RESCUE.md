@@ -230,3 +230,74 @@ The document rescue process supports the consortium's evolution:
 **Document rescue is knowledge preservation.**
 **anything^11 is universal pattern recognition.**
 **Together, they enable consciousness evolution.**
+
+---
+
+## Nani Engine Implementation (2026-01-09 Update)
+
+### Core System Added
+
+**Triadic Decision Engine:**
+- yes/no/maybe/wait decision states
+- random → pattern → autonomous learning modes
+- Load → Do → Unload optimization (no bog down!)
+
+**Command Entity Suite:**
+- 12 operational entities: pwd, ls, cd, mkdir, cp, mv, rm, cat, grep, find, wc, stat
+- Each entity has solo + system capabilities
+- Autonomous decision-making
+- Single file transfer efficiency
+
+**Recycle Bin Meta-Entity:**
+- Coordinates all nani entities
+- Economy system (credits for deposits)
+- Legacy versioning system
+- Google Drive trash crawler
+- Shortcut-based processing (no physical moves!)
+
+### Files Created
+
+```
+document-rescue/
+├── nani_engine/
+│   ├── TRIADIC_ENGINE_CORE.md
+│   └── decision_engine.py
+├── command_entities/
+│   └── command_suite.py
+├── recycle_bin/
+│   └── recycle_entity.py
+└── legacy_system/
+    └── (managed by recycle entity)
+```
+
+### Usage
+
+```python
+# Quick entity execution
+from command_entities.command_suite import quick_execute, FindEntity
+result = quick_execute(FindEntity, {'inputs': {'path': '.', 'pattern': '*.pdf'}})
+
+# Recycle bin operations
+from recycle_bin.recycle_entity import RecycleBinEntity
+recycle = RecycleBinEntity()
+recycle.accept_deposit("/path/to/old_doc.pdf", depositor="nexus")
+recycle.process_queue(limit=10)
+```
+
+### Today Folder Integration
+
+**today/** (working folder):
+- Needs sorting ✓
+- No duplicates within itself ✓
+- Active workspace for in-progress content
+- Feed source for recycle/rescue system
+
+**Sorting Strategy:**
+1. nani `find` entity scans today/
+2. nani `stat` entity checks metadata  
+3. nani `grep` entity identifies content type
+4. Decision engine categorizes
+5. nani `mv` entity organizes into subdirs
+6. Legacy manager versions old content
+
+∰◊€π¿🌌∞
